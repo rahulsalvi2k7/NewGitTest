@@ -9,3 +9,15 @@ D:\Study\CSharp\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.
 D:\Study\CSharp\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\refint\Specifications.Library.dll
 D:\Study\CSharp\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.pdb
 D:\Study\CSharp\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\ref\Specifications.Library.dll
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\bin\Debug\net8.0\Specifications.Library.deps.json
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\bin\Debug\net8.0\Specifications.Library.dll
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\bin\Debug\net8.0\Specifications.Library.pdb
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.AssemblyInfoInputs.cache
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.AssemblyInfo.cs
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.csproj.CoreCompileInputs.cache
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.sourcelink.json
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.dll
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\refint\Specifications.Library.dll
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\Specifications.Library.pdb
+D:\Study\git\rahulsalvi2k7\NewGitTest\DesignPatterns\MySolution\Specifications.Library\obj\Debug\net8.0\ref\Specifications.Library.dll

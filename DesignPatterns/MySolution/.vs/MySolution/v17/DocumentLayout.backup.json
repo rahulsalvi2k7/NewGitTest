@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Study\\CSharp\\DesignPatterns\\MySolution\\",
+  "WorkspaceRootPath": "D:\\Study\\git\\rahulsalvi2k7\\NewGitTest\\DesignPatterns\\MySolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23B9F782-215B-4BAA-80BF-957BCC284B81}|Client\\Client.csproj|d:\\study\\csharp\\designpatterns\\mysolution\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{23B9F782-215B-4BAA-80BF-957BCC284B81}|Client\\Client.csproj|d:\\study\\git\\rahulsalvi2k7\\newgittest\\designpatterns\\mysolution\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{23B9F782-215B-4BAA-80BF-957BCC284B81}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Study\\CSharp\\DesignPatterns\\MySolution\\Client\\Program.cs",
+              "DocumentMoniker": "D:\\Study\\git\\rahulsalvi2k7\\NewGitTest\\DesignPatterns\\MySolution\\Client\\Program.cs",
               "RelativeDocumentMoniker": "Client\\Program.cs",
-              "ToolTip": "D:\\Study\\CSharp\\DesignPatterns\\MySolution\\Client\\Program.cs",
+              "ToolTip": "D:\\Study\\git\\rahulsalvi2k7\\NewGitTest\\DesignPatterns\\MySolution\\Client\\Program.cs",
               "RelativeToolTip": "Client\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-17T06:53:03.881Z",
+              "WhenOpened": "2026-03-18T06:21:48.833Z",
               "EditorCaption": ""
             }
           ]
